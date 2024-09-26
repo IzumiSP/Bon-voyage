@@ -1,0 +1,208 @@
+body {
+    margin: 0;
+}
+.outerbox {
+    width: 230px;
+    height: 768px;
+    background-color: teal;
+    float: left;
+}
+.header-box {
+    position: absolute;
+    left: 230px;
+    width: 1119px;
+    height: 70px;
+    background-color: deeppink;
+    float: left;
+}
+.emoji-head {
+    display: inline-block;
+    margin: 20px 0 0 30px;
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border-radius: 50%;
+}
+h2 {
+    margin: 5px 0 0 50px;
+    display: inline-block;
+}
+.headerlistbox {
+    margin: 20px 0 0 14px;
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    clear: left;
+}
+.speedometer {
+    position: relative;
+    top: 5px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 3px;
+    display: inline-block;
+}
+#speedop {
+    display: inline-block;
+}
+.outerbox > hr {
+    width: 200px;
+    border: wheat 2px dotted;
+}
+.fakesearchbar {
+    margin-top: 14px;
+    margin-left: 40px;
+    width: 300px;
+    height: 40px;
+    background-color: purple;
+    display: inline-block;
+}
+.fakesearchbutton {
+    margin-left: -4px;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    display: inline-block;
+}
+#rightheadersector {
+    width: 500px;
+    height: 70px;
+    float: right;
+}
+#bell {
+    margin-top: 24px;
+    margin-right: 50px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 2px;
+    float: right;
+}
+#mailbox {
+    margin-top: 24px;
+    margin-right: 150px;
+    width: 20px;
+    height: 20px;
+    background-color: lightcoral;
+    border-radius: 2px;
+    float: right;
+}
+#profile {
+    margin-right: 40px;
+    margin-top: 14px;
+    width: 40px;
+    height: 40px;
+    background-color: coral;
+    border-radius: 2px;
+    float: right;
+}
+.pforinlblock {
+    margin-top: 24px;
+    margin-right: 20px;
+    float: right;
+}
+h1 {
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+#generatebutton {
+    position: absolute;
+    top: 120px;
+    left: 1150px;
+    width: 150px;
+    height: 30px;
+    background-color: deepskyblue;
+    border-radius: 8px;
+}
+.container {
+    position: absolute;
+    top: 180px;
+    left: 230px;
+    clear: right;
+}
+.whatamidoingwithmylife1 {
+    position: absolute;
+    margin-left: 20px;
+    width: 250px;
+    height: 150px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    border-radius: 8px;
+}
+.whatamidoingwithmylife2 {
+    position: absolute;
+    left: 270px;
+    margin-left: 20px;
+    width: 250px;
+    height: 150px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    border-radius: 8px;
+}
+.whatamidoingwithmylife3 {
+    position: absolute;
+    left: 540px;
+    margin-left: 20px;
+    width: 250px;
+    height: 150px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    border-radius: 8px;
+}
+.whatamidoingwithmylife4 {
+    position: absolute;
+    left: 810px;
+    margin-left: 20px;
+    width: 250px;
+    height: 150px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    border-radius: 8px;
+}
+.insidelogo {
+    position: relative;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    background-color: cyan;
+    border-radius: 8px;
+    float: right;
+}
+.graph {
+    position: absolute;
+    top: 340px;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 700px;
+    height: 400px;
+    background-color: brown;
+    display: inline-block;
+}
+.circling {
+    position: absolute;
+    top: 340px;
+    left: 950px;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 350px;
+    height: 400px;
+    background-color: magenta;
+    display: inline-block;
+}
+#horizonlineingraphblock {
+    border: 2px black solid;
+}
+#horizonlineincirclingblock {
+    border: 2px chocolate dashed;
+}
+.bigcircling {
+    position: relative;
+    left: 70px;
+    top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    border-radius: 50%;
+}
